@@ -4,7 +4,7 @@
 
 
 Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor  
-PDF: [Smart Contract Auditor.pdf]([Smart.Contract.Auditor.pdf(https://github.com/VarmaKollu/MindMap/files/11069335/Smart.Contract.Auditor.pdf)
+PDF: [Smart Contract Auditor.pdf](https://github.com/VarmaKollu/MindMap/files/11069335/Smart.Contract.Auditor.pdf)
 ### Step by Step Approach  
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)  
