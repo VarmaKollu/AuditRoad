@@ -66,7 +66,7 @@ PDF: [Smart Contract Auditor.pdf](https://github.com/VarmaKollu/MindMap/files/11
 
 * [CTFs](https://github.com/blockthreat/blocksec-ctfs)  
   * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
-  * Read Walkthroughs
+  * [Read Walkthroughs](https://medium.com/@0xsage/)
 
 * Postmortems
   * [Immunefi](https://medium.com/@immunefi)
